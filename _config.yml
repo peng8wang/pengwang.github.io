@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student at The Chinese University of Hong Kong"
   location         : "Shatin, N.T., Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=baF3HKUAAAAJ&hl=zh-TW"
   email            : "wangpeng@se.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
