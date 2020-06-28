@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peng Wang"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : # "Ph.D. Student at The Chinese University of Hong Kong"
   location         : "Shatin, N.T., Hong Kong"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
