@@ -13,7 +13,7 @@ Currently, I am a postdoctoral researcher in the department of Systems Engineeri
 Education
 ======
 * Ph.D.    Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong, 2016-2020
-* B.Sc.    School of Economics and Management, Beijing University of Posts and Telecommunications, Beijing, China, 2012-2016
+* B.S.    School of Economics and Management, Beijing University of Posts and Telecommunications, Beijing, China, 2012-2016
 
 Research Interests
 =======
