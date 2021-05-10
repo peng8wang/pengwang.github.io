@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Zirui Zhou
+
+- [https://scholar.google.ca/citations?user=2fKv_JQAAAAJ&hl=en&oi=ao My Google Scholar Citations]
+
+# == Preprints
+
+# - Zhaosong Lu and Zirui Zhou. /Iteration-Complexity of First-Order Augmented Lagrangian Methods for Convex Conic Programming/. Submitted. [./papers/cplx_alm.pdf \[pdf\]]
+
+# - Zhe Sun, Zhaosong Lu, and Zirui Zhou. /Penalty and Augmented Lagrangian Methods for a Class of Structured Nonsmooth DC Constrained DC Program/. Submitted. 
+
+
+
+== Journal Articles
+
+- Zhaosong Lu and Zirui Zhou. /Nonmonotone Enhanced Proximal DC Algorithms for a Class of Structured Nonsmooth DC Programming/. Accepted for publication in *SIAM Journal on Optimization*, 2019. [./papers/nmt_dc.pdf \[pdf\]]
+
+- Zhaosong Lu, Zirui Zhou, and Zhe Sun. /Enhanced Proximal DC Algorithms with Extrapolation for a Class of Structured Nonsmooth DC Minimization./ *Mathematical Programming* (2019), 176(1-2):369–401. [./papers/nsmth-dc.pdf \[pdf\]]
+
+- Man-Chung Yue, Zirui Zhou, and Anthony Man-Cho So. /On the Quadratic Convergence of the Cubic Regularization Method under a Local Error Bound Condition/. *SIAM Journal on Optimization* (2019), 29(1):904–932. [./papers/CR.pdf \[pdf\]] [https://github.com/ZiruiZhou/cubicreg_app \[codes\]]
+
+- Man-Chung Yue, Zirui Zhou, and Anthony Man-Cho So. /A Family of Inexact SQA Methods for Non-Smooth Convex Minimization with Provable Convergence Guarantees Based on the Luo-Tseng Error Bound Property/. *Mathematical Programming* (2019), 174(1):327–358. [./papers/irpn.pdf \[pdf\]] [https://github.com/ZiruiZhou/IRPN \[codes\]]
+
+- Zirui Zhou and Anthony Man-Cho So. /A Unified Approach to Error Bounds for Structured Convex Optimization Problems/. *Mathematical Programming* (2017), 165(2):689-728. [./papers/eb_sco.pdf \[pdf\]]
+
+- Anthony Man-Cho So and Zirui Zhou. /Non-Asymptotic Convergence Analysis of Inexact Gradient Methods for Machine Learning Without Strong Convexity/. *Optimization Methods and Software* (2017), 32(4):963-992. [./papers/inexact_GM_conv.pdf \[pdf\]]
+
+== Refereed Conference Articles
+
+- Zirui Zhou, Qi Zhang, and Anthony Man-Cho So. /$\ell_{1,p}$-norm Regularization: Error Bounds and Convergence Rate Analysis of First-Order Methods/. *Proceedings of the 32nd International Conference on Machine Learning (ICML 2015)*, pp. 1501-1510, 2015. [./papers/pnorm_eb-icml15.pdf \[pdf\]]
+
+- Yinqing Xu, Tianyi Lin, Wai Lam, Zirui Zhou, Hong Cheng, and Anthony Man-Cho So. /Latent Aspect Mining via Exploring Sparsity and Intrinsic Information/. *Proceedings of the 23rd ACM International Conference on Information and Knowledge Management (CIKM 2014)*, pp. 879-888, 2014. [./papers/latent_aspect_mining-cikm14 \[pdf\]]
+
+- Ke Hou, Zirui Zhou, Anthony Man-Cho So, and Zhi-Quan Luo. /On the Linear Convergence of the Proximal Gradient Method for Trace Norm Regularization/. *Advances in Neural Information Processing Systems 26: Proceedings of the 2013 Conference (NIPS 2013)*, pp. 710-718, 2013. [./papers/nucnorm_eb-nips13.pdf \[pdf\]]
+
+- Senshan Ji, Kam-Fung Sze, Zirui Zhou, Anthony Man-Cho So, and Yinyu Ye. /Beyond Convex Relaxation: A Polynomial-Time Non-Convex Optimization Approach to Network Localization/. *Proceedings of the 32nd IEEE International Conference on Computer Communications (INFOCOM 2013)*, pp. 2499-2507, 2013. [./papers/lp_local-infocom13.pdf \[pdf\]]
+
+== Thesis
+
+- Zirui Zhou. /Error Bounds for Structured Convex Programming: Theory and Applications./ PhD Dissertation, The Chinese University of Hong Kong, 2015. [./papers/thesis.pdf \[pdf\]]
+

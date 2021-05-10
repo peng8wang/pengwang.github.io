@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{talks.html}, nofooter  
+==Zirui Zhou
+
+- Western Coast Optimization Meeting (WCOM 2017), Vancouver, Sep 2017 \n
+    /Iteration-Complexity of First-Order Augmented Lagrangian Methods for Convex Conic Programming/. [./talks/ALM-cplx_WCOM.pdf \[Slides\]]
+    
+- Workshop on Modern Convex Optimization and Applications (AN70), Toronto, Jul 2017\n
+    /Iteration-Complexity of First-Order Augmented Lagrangian Methods for Convex Conic Programming/. [/talks/ALM-cplx_AN70.pdf \[Slides\]]
+    
+- SIAM Conference on Optimization (OP17), Vancouver, May 2017 \n
+    /A Unified Approach to Error Bounds for Structured Convex Optimization Problems/. [/talks/SIAM-17.pdf \[Slides\]]
+    
+- International Conference on Continuous Optimization (ICCOPT 2016), Tokyo, Aug 2016 \n
+    /A Unified Approach to Error Bounds for Structured Convex Optimization Problems/. [/talks/SIAM-17.pdf \[Slides\]]
+    
+- International Symposium on Mathematical Programming (ISMP 2015), Pittsburgh, Jul 2015 \n
+    /Trace Norm Regularization: Error Bounds and Convergence Rate Analysis of Proximal Gradient Method/. [/talks/ISMP-15.pdf \[Slides\]]
+    
+- International Conference on Machine Learning (ICML 2015), Lille, Jul 2015 \n
+    /$\ell_{1,p}$-Norm Regularization: Error Bounds and Convergence Rate Analysis of First-Order Methods/. [/talks/ICML-2015.pdf \[Slides\]]
+
+- IEEE International Conference on Computer Communications (INFOCOM 2014), Torino, Apr 2013 \n
+    /A Polynomial-Time Nonconvex Optimization Approach to Network Localization/. [/talks/infocom-2013.pdf \[Slides\]]
+

@@ -1,0 +1,94 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter
+= MATH 3826: Markov Chains and Queueing Theory (Spring 2020)
+
+== Annoucements
+
+- *New*: Final exam is scheduled on May 14 (Thursday), 2020. Time: 1:40 pm -- 3:40 pm (two hours). Exam shall be performed in Moodle (same to our mid-term exam). Students will have 15 minutes after 3:40 pm for uploading their solutions.
+- *New*: Solution of the fifth assignment is uploaded; see below.
+- The course project is uploaded; see below.
+#- The assessment method for this course is updated; see below.
+#- As on-campus teaching is cancelled, we will have on-line lectures instead. We will use the software "ZOOM" to deliver on-line lectures. The time for our on-line lectures is the same as for our on-campus ones, i.e., Thursday 1:30 -- 3:20 PM and Friday  4:30 -- 5:20 PM.
+
+== General Information
+
+- *Instructor:*
+    -- [http://www.math.hkbu.edu.hk/~zirui-zhou Zirui Zhou] (zirui-zhou /at/ hkbu /dot/ edu /dot/ hk)
+
+- *Teaching Assistant:*
+    -- Yingying Fang (17481201 /at/ life /dot/ hkbu /dot/ edu /dot/ hk)
+    -- Office: FSC 1101
+
+- *Office\/Office Hours:* FSC 1210
+    -- Thursday 9:30 AM -- 12:20 PM
+    -- Friday 9:30 AM -- 12:20 PM
+    -- Or by appointment via email
+
+- *Lecture Location\/Time:*
+    -- Thursday 1:30 -- 3:20 PM  at WLB205
+    -- Friday  4:30 -- 5:20 PM   at OEM602
+
+== Course Information
+
+- *Course Webpage:*
+    -- [http://www.math.hkbu.edu.hk/~zirui-zhou/math3826.html]
+
+- *Course Description:*
+    -- This course introduces basic principles, classical models, popular algorithms, and various applications of Markov Chains and Queueing Theory
+
+- *Pre/Co-requisite:*
+    -- MATH 2206 Probability and Statistics
+    -- MATH 2207 Linear Algebra
+    -- MATH 3205 Linear Programming and Integer Programming
+
+- *Assessment (New):*
+    -- Assignments (30\%)
+    -- Mid-term Exam (25\%)
+    -- Course Project (15\%)
+    -- Final Examination (30\%)
+
+- *Textbooks:*
+    -- J.R.Norris, /Markov Chains/, Cambridge, 2010.
+    -- D.Gross and C.Harris, /Fundamentals of Queuing Theory/, Wiley, 1997.
+
+- *References:*
+    -- D.Isaacson and R.Madsen, /Markov Chains: Theory and Applications/, Wiley, 1976.
+    -- R.Cooper, /Introduction to Queuing Theory/, North-Holland, 1981.
+    -- W.L.Winston, /Operations Research: Applications and Algorithms/, Brooks\/Cole, 2004.
+    -- H.A.Taha, /Operations Research: An Introduction/, Pearson Education, 2007.
+
+== Lecture Slides
+    - Lecture 0: [./MATH3826/Slides/MATH3826-00.pdf Course Introduction and Review of Probability Theory]
+    - Lecture 1: [./MATH3826/Slides/MATH3826-01.pdf Markov Chain: Definition and Basic Properties]
+    - Lecture 2: [./MATH3826/Slides/MATH3826-02.pdf Markov Chain: Class Structure, Hitting Time, and Absorbtion Probability]
+    - Lecture 3: [./MATH3826/Slides/MATH3826-03.pdf Markov Chain: Strong Markov Property, Recurrence and Transience]
+    - Lecture 4: [./MATH3826/Slides/MATH3826-04.pdf Markov Chain: Invariant Distribution, Convergence to Equilibrium, and Ergodic Theorem]    (A Matlab Script for Testing Long-Term Proportion in Markov Chain: [./MATH3826/Slides/longterm.m longterm.m])
+    - Lecture 5: [./MATH3826/Slides/MATH3826-05.pdf Markov Chain: Some Applications]
+    - Lecture 6: [./MATH3826/Slides/MATH3826-06.pdf Queueing Theory: Introduction to Queueing Theory]
+    - Lecture 7: [./MATH3826/Slides/MATH3826-07.pdf Queueing Theory: Simple Markovian Queueing Models]
+	- Review: [./MATH3826/Slides/MATH3826-review.pdf Course Review]
+
+
+== Assignments
+Students can send photocopies of their solutions to the TA's email account 17481201 /at/ life /dot/ hkbu /dot/ edu /dot/ hk.
+#Students can drop their solutions into the assignment box "MATH 3826" on the 12th floor of Fong Shu Chuen Building (FSC) or .
+
+    - [./MATH3826/Assignments/hw01.pdf Assignment 1] ([./MATH3826/Assignments/hw01-sol.pdf Solution])
+    - [./MATH3826/Assignments/hw02.pdf Assignment 2] ([./MATH3826/Assignments/hw02-sol.pdf Solution])
+    - [./MATH3826/Assignments/hw03.pdf Assignment 3] ([./MATH3826/Assignments/hw03-sol.pdf Solution])
+    - [./MATH3826/Assignments/hw04.pdf Assignment 4] ([./MATH3826/Assignments/hw04-sol.pdf Solution])
+    - [./MATH3826/Assignments/hw05.pdf Assignment 5] ([./MATH3826/Assignments/hw05-sol.pdf Solution])
+    #- [./MATH3826/Assignments/hw06.pdf Assignment 6] ([./MATH3826/Assignments/MATH3826-Ass6-sol.pdf Solution])
+
+== Course Project
+You may choose to work on the project by yourself or with some other students as a group. You can form the group on your own, but each group cannot have more than three students. Each group is required to let the instructor know your group members on or before *March 31* (send an email to the instructor with the names and student IDs of all your group members). The deadline of this project is *May 6 (Wed)*.
+
+    - Here is a description of the course project [./MATH3826/project/readme.pdf here].
+    - To download the project package, click [./MATH3826/project/MATH3826Project2020.zip here].
+
+== Mid-term Exam
+Here is the mid-term exam paper and solutions.
+
+    - [./MATH3826/Exams/mid-term.pdf Mid-Term Exam Paper] ([./MATH3826/Exams/mid-term-sol.pdf Solution])
+
+
+
